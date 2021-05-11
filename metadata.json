@@ -1,0 +1,9 @@
+{
+    "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+    "type": "QuickStart",
+    "itemDisplayName": "Greg's fun with ARM Templates",
+    "description": "This is Greg's ARM template to create a VM, inspired by Quickstart ARM Templates on GitHub.",
+    "summary": "This is Greg's ARM template to create a VM, inspired by Quickstart ARM Templates on GitHub.",
+    "githubUsername": "gmerritt",
+    "dateUpdated": "2021-05-10"
+  }

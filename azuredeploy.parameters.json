@@ -1,0 +1,12 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "adminUsername": {
+            "value": "ubuntu"
+        },
+        "adminPasswordOrKey": {
+            "value": "I'm_not_really_using_this_:P_+y7*Q&wJDgsL2KJsjWz3t#MH?P%a?@mbSMrF@tw@+zW?bk2YsD3fhed+xfsUqWYY^uEe*!9^F@_TrQ^cAZEJYJeC4!8fKcTUQN*sk@6+GzLg#Y$vpbJ-jCrYQUdkDX_+y7*Q&wJDgsL2KJsjWz3t#MH?P%a?@mbSMrF@tw@+zW?bk2YD3fhed+xfsUqWYY^uEe*!9^F@_TrQ^3cAZEJYJeC4!8fKcTUQN*sk@6+GzLg#Y$vpbJ-jCrYQUdkDX_"
+        }
+    }
+}
