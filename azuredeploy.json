@@ -10,7 +10,7 @@
     },
     "_artifactsLocation": {
       "type": "string",
-      "defaultValue": "https://blobfunctionstoragedti.z5.web.core.windows.net/cloud-init.yaml",
+      "defaultValue": "https://raw.githubusercontent.com/gmerritt/greg-arm-template-custom-data/main/cloud-init.yaml",
       "metadata": {
         "description": "Full http(s) URL to cloud-init file"
       }
