@@ -1,0 +1,8 @@
+#cloud-config
+hostname: "nginx-configured-by-cloud-init"
+apt_update: true
+packages:
+ - nginx
+runcmd:
+ - echo "Hello from cloud-init, Azure Working Group!" > /var/www/html/index.html
+final_message: "nginx-configured-by-cloud-init up after $UPTIME seconds."
